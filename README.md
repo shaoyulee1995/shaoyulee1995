@@ -10,7 +10,7 @@
 ### Programming languages: 
 #### Back-End:
 ![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white&labelColor=628aac&color=f89820) ![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&labelColor=628aac&color=f89820)    
-![](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=blue&labelColor=white&color=B4CFB0) ![](https://img.shields.io/badge/-SOQL-informational?style=flat-square&logo=Salesforce&logoColor=blue&labelColor=white&color=B4CFB0) ![](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=green&labelColor=white&color=B4CFB0)
+![](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=MySQL&logoColor=blue&labelColor=white&color=B4CFB0)
 
 ### Testing:
 ![](https://img.shields.io/badge/-JUnit-informational?style=flat-square&logo=java&logoColor=black&labelColor=D9D7F1&color=FFFDDE)
